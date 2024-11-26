@@ -1,0 +1,82 @@
+#song-info
+{
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+
+#song-information
+{
+    align-items: center;
+    margin-right: 10px;
+}
+
+#album-cover
+{
+    width: 50%;
+    height: auto;
+    margin-right: 10px;
+}
+
+#currently-playing{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#vinyl-container
+{
+    width: 25vw;
+    height: 25vw;
+    border: none; /* White border with slight transparency */
+    border-radius: 10px;                        /* Rounded corners */
+    overflow: hidden;                           /* Ensures the canvas is clipped by the border */
+    padding: 10px;                              /* Optional padding for spacing */
+    box-shadow: none; /* Optional shadow for a nice effect */
+    display: inline-block;                      /* Ensures the border wraps tightly around the canvas */
+
+}
+
+#music-container {
+    display: flex;
+    flex-direction: row;            /* Places items side by side */
+    align-items: center;            /* Vertically centers items */
+    justify-content: center;        /* Horizontally centers items */
+    gap: 20px;                      /* Adds space between vinyl and song info */
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#currently-playing {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;        /* Aligns song info to the left */
+    padding: 10px;
+}
+
+#albums-container
+{
+    display: flex;
+    flex-wrap: wrap;               /* Allows items to wrap to the next line */
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.album-cover
+{
+    width: 25%;
+    height: auto;
+    margin-right: 10px;
+}
+
+.album-cover:hover
+{
+    transform: scale(1.2);
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}

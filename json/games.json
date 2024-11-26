@@ -1,0 +1,642 @@
+{
+    "consoles":
+    {
+        "Playstation 1":
+        {
+            "Dino Crisis":
+            {
+                "genre": "Survival Horror",
+                "release": "1999"
+            },
+            "Dino Crisis 2":
+            {
+                "genre": "Survival Horror",
+                "release": "2000"
+            },
+            "Tomb Raider II":
+            {
+                "genre": "Action-Adventure",
+                "release": "1997"
+            }
+        },
+        "Playstation 2":
+        {
+            "Need For Speed Underground 2":
+            {
+                "genre": "Racing",
+                "release": "2004"
+            },
+            "Need For Speed Most Wanted":
+            {
+                "genre": "Racing",
+                "release": "2005"
+            },
+            "Need For Speed Pro Street":
+            {
+                "genre": "Racing",
+                "release": "2007"
+            },
+            "Need For Speed Undercover":
+            {
+                "genre": "Racing",
+                "release": "2008"
+            },
+            "Lego Star Wars II":
+            {
+                "genre": "Action-Adventure",
+                "release": "2006"
+            },
+            "Lego Indiana Jones":
+            {
+                "genre": "Action-Adventure",
+                "release": "2008"
+            },
+            "Burnout Dominator":
+            {
+                "genre": "Racing",
+                "release": "2007"
+            },
+            "World Super Police":
+            {
+                "genre": "Racing",
+                "release": "2005"
+            },
+            "Wall-E":
+            {
+                "genre": "Action-Adventure",
+                "release": "2008"
+            },
+            "Juiced 2 Hot Import Nights":
+            {
+                "genre": "Racing",
+                "release": "2007"
+            },
+            "Stitch Experiment 626":
+            {
+                "genre": "Action-Adventure",
+                "release": "2002"
+            },
+            "Star Wars Episode III":
+            {
+                "genre": "Action-Adventure",
+                "release": "2005"
+            },
+            "Test Drive Unlimited":
+            {
+                "genre": "Racing",
+                "release": "2006"
+            },
+            "Gran Turismo 4":
+            {
+                "genre": "Racing",
+                "release": "2004"
+            },
+            "Metal Gear Solid 3 - Snake Eater":
+            {
+                "genre": "Action-Adventure",
+                "release": "2004"
+            },
+            "Canis Canem Edit":
+            {
+                "genre": "Action-Adventure",
+                "release": "2006"
+            },
+            "Grand Theft Auto Liberty City Stories":
+            {
+                "genre": "Action-Adventure",
+                "release": "2005"
+            },
+            "FIFA Street 2":
+            {
+                "genre": "Sports",
+                "release": "2006"
+            },
+            "MotorStorm Arctic Edge":
+            {
+                "genre": "Racing",
+                "release": "2009"
+            },
+            "Spongebob Squarepants: Lights, Camera, Pants!":
+            {
+                "genre": "Action-Adventure",
+                "release": "2005"
+            },
+            "Midnight Club 3 DUB Edition":
+            {
+                "genre": "Racing",
+                "release": "2005"
+            },
+            "Kung Fu Panda":
+            {
+                "genre": "Action-Adventure",
+                "release": "2008"
+            },
+            "Tourist Trophy":
+            {
+                "genre": "Racing",
+                "release": "2006"
+            },
+            "Twisted Metal Black":
+            {
+                "genre": "Racing",
+                "release": "2001"
+            },
+            "Star Wars Bounty Hunter":
+            {
+                "genre": "Action-Adventure",
+                "release": "2002"
+            },
+            "Destroy All Humans":
+            {
+                "genre": "Action-Adventure",
+                "release": "2005"
+            }
+        },
+        "Playstation 3":
+        {
+            "FIFA 14":
+            {
+                "genre": "Sports",
+                "release": "2013"
+            },
+            "MotorStorm":
+            {
+                "genre": "Racing",
+                "release": "2006"
+            },
+            "MotorStorm Pacific Rift":
+            {
+                "genre": "Racing",
+                "release": "2008"
+            },
+            "MotorStorm Apocalypse":
+            {
+                "genre": "Racing",
+                "release": "2011"
+            },
+            "Need For Speed Rivals":
+            {
+                "genre": "Racing",
+                "release": "2013"
+            },
+            "Need For Speed Most Wanted":
+            {
+                "genre": "Racing",
+                "release": "2012"
+            },
+            "Need For Speed Shift 2 Unleashed":
+            {
+                "genre": "Racing",
+                "release": "2011"
+            },
+            "Test Drive Unlimited 2":
+            {
+                "genre": "Racing",
+                "release": "2011"
+            },
+            "Driver San Francisco":
+            {
+                "genre": "Racing",
+                "release": "2011"
+            },
+            "Gran Turismo 6":
+            {
+                "genre": "Racing",
+                "release": "2013"
+            },
+            "Skate 3":
+            {
+                "genre": "Sports",
+                "release": "2010"
+            },
+            "Midnight Club Los Angeles":
+            {
+                "genre": "Racing",
+                "release": "2008"
+            },
+            "The Last of Us":
+            {
+                "genre": "Action-Adventure",
+                "release": "2013"
+            },
+            "Max Payne 3":
+            {
+                "genre": "Action-Adventure",
+                "release": "2012"
+            }
+        },
+        "Playstation 4":
+        {
+            "Need For Speed":
+            {
+                "genre": "Racing",
+                "release": "2015"
+            },
+            "Ratchet & Clank":
+            {
+                "genre": "Action-Adventure",
+                "release": "2016"
+            },
+            "Uncharted - The Nathan Drake Collection":
+            {
+                "genre": "Action-Adventure",
+                "release": "2015"
+            },
+            "Uncharted 4 A Thief's End":
+            {
+                "genre": "Action-Adventure",
+                "release": "2016"
+            },
+            "Call Of Duty Black Ops III":
+            {
+                "genre": "Action-Adventure",
+                "release": "2015"
+            },
+            "God Of War 3":
+            {
+                "genre": "Action-Adventure",
+                "release": "2018"
+            }
+        },
+        "Playstation Portable":
+        {
+            "Spider-Man 3":
+            {
+                "genre": "Action-Adventure",
+                "release": "2007"
+            },
+            "FIFA 09":
+            {
+                "genre": "Sports",
+                "release": "2008"
+            },
+            "Lego Harry Potter Years 1-4":
+            {
+                "genre": "Action-Adventure",
+                "release": "2010"
+            },
+            "Lego Harry Potter Years 5-7":
+            {
+                "genre": "Action-Adventure",
+                "release": "2011"
+            },
+            "Monster Hunter Freedom 2":
+            {
+                "genre": "Action-Adventure",
+                "release": "2007"
+            },
+            "Monster Hunter Freedom Unite":
+            {
+                "genre": "Action-Adventure",
+                "release": "2009"
+            },
+            "Transformers Revenge of the Fallen":
+            {
+                "genre": "Action-Adventure",
+                "release": "2009"
+            },
+            "Gran Turismo":
+            {
+                "genre": "Racing",
+                "release": "2009"
+            },
+            "Star Wars The Clone Wars Republic Heroes":
+            {
+                "genre": "Action-Adventure",
+                "release": "2009"
+            },
+            "Ace Combat X Skies of Deception":
+            {
+                "genre": "Action-Adventure",
+                "release": "2006"
+            },
+            "Burnout Legends":
+            {
+                "genre": "Racing",
+                "release": "2005"
+            },
+            "Burnout Dominator":
+            {
+                "genre": "Racing",
+                "release": "2007"
+            },
+            "Need For Speed Carbon Own The City":
+            {
+                "genre": "Racing",
+                "release": "2006"
+            },
+            "Lego Pirates of the Caribbean":
+            {
+                "genre": "Action-Adventure",
+                "release": "2011"
+            },
+            "Crash Of The Titans":
+            {
+                "genre": "Action-Adventure",
+                "release": "2007"
+            },
+            "Midnight Club 3 DUB Edition":
+            {
+                "genre": "Racing",
+                "release": "2005"
+            },
+            "Midnight Club LA Remix":
+            {
+                "genre": "Racing",
+                "release": "2008"
+            },
+            "Star Wars The Force Unleashed":
+            {
+                "genre": "Action-Adventure",
+                "release": "2008"
+            },
+            "Split Second Velocity":
+            {
+                "genre": "Racing",
+                "release": "2010"
+            },
+            "Sims 2":
+            {
+                "genre": "Simulation",
+                "release": "2005"
+            },
+            "Sims 2 Castaway":
+            {
+                "genre": "Simulation",
+                "release": "2007"
+            }
+        },
+        "Xbox 360":
+        {
+            "Burnout Revenge":
+            {
+                "genre": "Racing",
+                "release": "2005"
+            },
+            "Need For Speed Most Wanted":
+            {
+                "genre": "Racing",
+                "release": "2005"
+            },
+            "Need For Speed Most Wanted - 2012":
+            {
+                "genre": "Racing",
+                "release": "2012"
+            }
+        },
+        "Gameboy":
+        {
+            "Super R.C. Pro-Am":
+            {
+                "genre": "Racing",
+                "release": "1991"
+            },
+            "Batman Chaos in Gotham":
+            {
+                "genre": "Action-Adventure",
+                "release": "2001"
+            },
+            "Super Mario Land":
+            {
+                "genre": "Action-Adventure",
+                "release": "1989"
+            },
+            "Indiana Jones And The Infernal Machine":
+            {
+                "genre": "Action-Adventure",
+                "release": "2001"
+            },
+            "Star Wars Episode I Racer":
+            {
+                "genre": "Racing",
+                "release": "1999"
+            },
+            "Game & Watch Gallery 2":
+            {
+                "genre": "Action-Adventure",
+                "release": "1998"
+            },
+            "Quarth":
+            {
+                "genre": "Puzzle",
+                "release": "1990"
+            },
+            "V-Rally Championship Edition":
+            {
+                "genre": "Racing",
+                "release": "1999"
+            },
+            "Lego Island 2":
+            {
+                "genre": "Action-Adventure",
+                "release": "2001"
+            },
+            "Lego Alpha Team":
+            {
+                "genre": "Action-Adventure",
+                "release": "2000"
+            }
+        },
+        "Nintendo Switch":
+        {
+            "Monster Hunter Generations Ultimate":
+            {
+                "genre": "Action-Adventure",
+                "release": "2018"
+            },
+            "Mario Kart 8 Deluxe":
+            {
+                "genre": "Racing",
+                "release": "2017"
+            },
+            "Lego Harry Potter Collection":
+            {
+                "genre": "Action-Adventure",
+                "release": "2018"
+            },
+            "Animal Crossing New Horizons":
+            {
+                "genre": "Simulation",
+                "release": "2020"
+            }
+        },
+        "PC":
+        {
+            "Need For Speed Underground":
+            {
+                "genre": "Racing",
+                "release": "2003"
+            },
+            "Need For Speed Underground 2":
+            {
+                "genre": "Racing",
+                "release": "2004"
+            },
+            "Need For Speed Most Wanted":
+            {
+                "genre": "Racing",
+                "release": "2005"
+            },
+            "Need For Speed Carbon":
+            {
+                "genre": "Racing",
+                "release": "2006"
+            },
+            "Need For Speed Pro Street":
+            {
+                "genre": "Racing",
+                "release": "2007"
+            },
+            "Need For Speed Most Wanted - 2012":
+            {
+                "genre": "Racing",
+                "release": "2012"
+            },
+            "Need For Speed Rivals":
+            {
+                "genre": "Racing",
+                "release": "2013"
+            },
+            "Need For Speed The Run":
+            {
+                "genre": "Racing",
+                "release": "2011"
+            },
+            "Star Wars Knights of the Old Republic":
+            {
+                "genre": "Action-Adventure",
+                "release": "2003"
+            },
+            "Star Wars Knights of the Old Republic II":
+            {
+                "genre": "Action-Adventure",
+                "release": "2004"
+            },
+            "Star Wars The Force Unleashed - Ultimate Sith Edition":
+            {
+                "genre": "Action-Adventure",
+                "release": "2009"
+            },
+            "Euro Truck Simulator 2 - Gold Edition":
+            {
+                "genre": "Simulation",
+                "release": "2013"
+            },
+            "Farming Simulator 2011 Complete Edition":
+            {
+                "genre": "Simulation",
+                "release": "2011"
+            },
+            "Battleborn":
+            {
+                "genre": "Action-Adventure",
+                "release": "2016"
+            },
+            "Anno 1404 Gold Edition":
+            {
+                "genre": "Simulation",
+                "release": "2009"
+            },
+            "Juiced":
+            {
+                "genre": "Racing",
+                "release": "2005"
+            },
+            "Juiced 2 Hot Import Nights":
+            {
+                "genre": "Racing",
+                "release": "2007"
+            },
+            "Lego Batman":
+            {
+                "genre": "Action-Adventure",
+                "release": "2008"
+            },
+            "Lego Star Wars - The Video Game":
+            {
+                "genre": "Action-Adventure",
+                "release": "2005"
+            },
+            "Lego Star Wars - The Complete Saga":
+            {
+                "genre": "Action-Adventure",
+                "release": "2007"
+            },
+            "Lego Harry Potter Years 1-4":
+            {
+                "genre": "Action-Adventure",
+                "release": "2010"
+            },
+            "Lego Star Wars III - The Clone Wars":
+            {
+                "genre": "Action-Adventure",
+                "release": "2011"
+            },
+            "Blade Runner":
+            {
+                "genre": "Action-Adventure",
+                "release": "1997"
+            },
+            "Max Payne 2":
+            {
+                "genre": "Action-Adventure",
+                "release": "2003"
+            },
+            "King Kong Collectors Edition":
+            {
+                "genre": "Action-Adventure",
+                "release": "2005"
+            },
+            "Midnight Club 2":
+            {
+                "genre": "Racing",
+                "release": "2003"
+            },
+            "Zoo Tycoon - Complete Edition":
+            {
+                "genre": "Simulation",
+                "release": "2001"
+            },
+            "Open Season":
+            {
+                "genre": "Action-Adventure",
+                "release": "2006"
+            },
+            "Star Wars The Clone Wars - Republic Heroes":
+            {
+                "genre": "Action-Adventure",
+                "release": "2009"
+            },
+            "Harry Potter And The Prisoner Of Azkaban":
+            {
+                "genre": "Action-Adventure",
+                "release": "2004"
+            },
+            "Jade Empire - Special Edition":
+            {
+                "genre": "Action-Adventure",
+                "release": "2007"
+            },
+            "Test Drive Unlimited":
+            {
+                "genre": "Racing",
+                "release": "2007"
+            },
+            "Test Drive Unlimited 2":
+            {
+                "genre": "Racing",
+                "release": "2011"
+            },
+            "Tony Hawk's Underground 2":
+            {
+                "genre": "Sports",
+                "release": "2004"
+            },
+            "TOCA Race Driver 3":
+            {
+                "genre": "Racing",
+                "release": "2006"
+            }
+        }
+    }
+}

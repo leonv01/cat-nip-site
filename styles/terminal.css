@@ -1,0 +1,69 @@
+:root
+{
+    --terminal-text: #15c66b;
+    --terminal-text-output: #fc0000;
+}
+
+#terminal-container
+{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    padding: 10px;
+    box-sizing: border-box;
+    overflow-y: auto;
+    font-size: inherit;
+    margin: 20px auto;
+    border-radius: 5px;
+    text-shadow: 0 0 5px var(--terminal-text), 0 0 10px var(--terminal-text);
+    scrollbar-color: var(--terminal-text);
+    scrollbar-width: thin;
+}
+
+#terminal
+{
+    background-color: black;
+}
+
+#prompt
+{
+    margin-right: 5px;
+}
+
+#cmdline
+{
+    flex-grow: 1;
+    background: none;
+    border: none;
+    color: #FFF;
+    caret-color: var(--terminal-text);
+    font-size: inherit;
+    font-family: inherit;
+    font-weight: inherit;
+    text-shadow: inherit;
+}
+
+#cmdline:focus
+{
+    outline: none;
+    font: inherit;
+    font-weight: inherit;
+    color: inherit;
+}
+
+#output
+{
+    white-space: pre-wrap;
+    word-wrap: break-word;
+
+}
+
+.command-output
+{
+    color: var(--terminal-text-output);
+    text-shadow: 0 0 5px var(--terminal-text-output), 0 0 10px var(--terminal-text-output);
+}
+.command-output-prompt
+{
+    color: var(--terminal-text);
+}

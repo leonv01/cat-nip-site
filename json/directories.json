@@ -1,0 +1,13 @@
+{
+    "root": 
+    {
+        "home": "index.html",
+        "music": "music.html",
+        "art": "art.html",
+        "projects": "projects.html",
+        "games": "games.html",
+        "accounts": "accounts.html",
+        "cats": "cats.html",
+        "privacy": "privacy.html"
+    }
+}

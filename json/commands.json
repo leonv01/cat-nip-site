@@ -1,0 +1,17 @@
+{
+    "commands":
+    {
+        "help" : "Usage: help [command] - Should be obvious.",
+        "clear" : "Usage: clear - Clears the terminal from previous input/ouput.",
+        "echo" : "Usage: echo [text] - Responds with the parameters given.",
+        "ls" : "Usage: ls - Lists all other pages available.",
+        "neofetch" : "Usage: neofetch - Displays your current operating system and also your browser.",
+        "cd" : "Usage: cd [directory] - Changes to the desired page. Use the 'ls' command to see which pages are available.",
+        "history" : "Usage: history [number] - Shows your last n commands. If no parameter is present, all commands.",
+        "meow" : "Usage: meow - Responds with meow back.",
+        "commands" : "Usage: commands - Displays all possible commands.",
+        "adduser" : "Usage: adduser [username] - Adds the username to the terminal. Username is stored in a cookie.",
+        "removeuser" : "Usage: removeuser - Removes the username and resets back to a default name.",
+        "whoami" : "Usage: whoami - Shows your current username."
+    }
+}

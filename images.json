@@ -1,0 +1,42 @@
+[
+    {
+        "name": "audi a4",
+        "path": "./img/renderings/audi-a4.jpg"
+    },
+    {
+        "name": "corvette c7",
+        "path": "./img/renderings/corvette-c7.png"
+    },
+    {
+        "name": "lamborghini aventador",
+        "path": "./img/renderings/lamborghini-aventador.jpg"
+    },
+    {
+        "name": "tam",
+        "path": "./img/renderings/tam.jpg"
+    },
+    {
+        "name": "nissan 350z",
+        "path": "./img/renderings/nissan-350z.png"
+    },    
+    {
+        "name": "nissan 350z (rain)",
+        "path": "./img/renderings/nissan-350z-rain.png"
+    },
+    {
+        "name": "porsche 918 sypder",
+        "path": "./img/renderings/porsche-918-spyder.png"
+    },
+    {
+        "name": "bentley continental",
+        "path": "./img/renderings/bentley-continental.jpg"
+    },
+    {
+        "name": "audi a8",
+        "path": "./img/renderings/audi-a8.jpg"
+    },
+    {
+        "name": "audi q8",
+        "path": "./img/renderings/audi-q8.jpg"
+    }
+]
